@@ -8,7 +8,7 @@ Repo utilizado para elaborar el trabajo individual para la asignatura "Programac
 
 
 <!-- En la linea de abajo HAS de SUSTITUIR "perezp44" por tu usuario de Github-->
-La versión final del trabajo puede visualizarse en: <https://egomez22.github.io/trabajo_individual_bigdata/>. 
+La versión final del trabajo puede visualizarse en: <https://egomez22.github.io/Trabajo_individual_bigdata/>. 
 
 
 <!-- Abajo podéis escribir lo que queráis, igual un resumen del trabajo, o ..., o ... pero al menos, tenéis que poner el título del trabajo y el nombre de los componentes del equipo-->
