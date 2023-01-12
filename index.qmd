@@ -1,0 +1,23 @@
+---
+title: El potencial económico de Brasil     #- Hay que cambiarlo
+image: ./imagenes/UV.png      #- poned una foto vuestra
+about:
+  template: solana  #- {jolla, solana, trestles ...}
+  image-width: 28em     #- https://cybmeta.com/em-y-rem
+  image-shape: rectangle    #- {rectangle, round, rounded}
+  links:
+    - icon: github
+      text: Github
+      href:  https://github.com/egomez22        #- Github
+---     
+
+Hola, soy Emilio Gómez-Meana Torres,
+
+Esta web sirve para presentar mi trabajo individual para la asignatura "Programación y manejo de datos en la era Del Big Data", optativa de GECO en la Facultad de Economía de la Universitat de València.
+
+La web de la asignatura está [aquí](https://perezp44.github.io/intro-ds-22-23-web/){target="_blank"} y los trabajos de mis compañeros de curso puedes verlos [aquí](https://perezp44.github.io/intro-ds-22-23-web/07-trabajos_2022-23.html){target="_blank"}.
+
+El trabajo lleva por título : "El potencial económico de Brasil". El objetivo es comentar un poco los aspectos fundamentales de la economía brasileña y averiguar si las teorias que colocan al país como una economía dominante en el futuro pueden llegar a cumplirse.
+
+El trabajo puede verse [aquí](trabajo_individual.html).
+
